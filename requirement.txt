@@ -1,0 +1,5 @@
+Python version (3.11) 
+streamlit
+opencv-python
+numpy
+pillow
